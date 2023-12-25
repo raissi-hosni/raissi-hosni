@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)](https://StackWAG.com)
 <h1 align="center">Hi 👋, I'm Raissi Hosni</h1>
-<h3 align="center">a passionate full stack developer with expertise in front-end, back-end, and mobile app development. I enjoy turning ideas into functional and user-friendly applications.</h3>
+<h3 align="center">I'm a passionate full-stack developer and engineer with expertise in front-end, back-end, mobile app and a little about game development. I enjoy turning ideas into functional and user-friendly applications, combining engineering precision with creative innovation..</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raissi-hosni&label=Profile%20views&color=0e75b6&style=flat" alt="raissi-hosni" /> </p>
