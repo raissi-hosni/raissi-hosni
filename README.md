@@ -1,15 +1,19 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)](https://StackWAG.com)
 <h1 align="center">Hi 👋, I'm Raissi Hosni</h1>
-<h3 align="center">I'm a passionate full-stack developer and engineer with expertise in front-end, back-end, mobile app and a little about game development. I enjoy turning ideas into functional and user-friendly applications, combining engineering precision with creative innovation..</h3>
+<h3 align="center">👨‍💻 As a Computer Science Engineering student at ENICarthage, I’m driven by a deep passion for cybersecurity and its crucial role in shaping the future of technology. Over the past three years, I've actively explored the dynamic fields of software development, data science, artificial intelligence, and ethical hacking, continuously sharpening my skills through hands-on projects and personal learning.
+
+Currently, I’m focusing on advancing my expertise in cybersecurity—from system and network security to penetration testing and threat detection—while also building impactful solutions using modern web technologies and AI frameworks. I'm always excited to apply my knowledge to real-world challenges, whether through collaborative team projects or independent innovations.
+
+🚀 Always learning. Always building. Always securing...</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raissi-hosni&label=Profile%20views&color=0e75b6&style=flat" alt="raissi-hosni" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hosny_rs" target="blank"><img src="https://img.shields.io/twitter/follow/hosny_rs?logo=twitter&style=for-the-badge" alt="hosny_rs" /></a> </p>
 
-- 🌱 I’m currently learning **Dart, React native and c++**
+- 🌱 I’m currently learning **Cybersecurity, IA**
 
-- 💬 Ask me about **MERN, Next.js and android**
+- 💬 Ask me about **Cybersecurity,Penetration Testing, Cloude Security, MERN, Next.js**
 
 - 📫 How to reach me **hosnyrs73@gmail.com**
 
