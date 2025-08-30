@@ -1,4 +1,5 @@
-[![MasterHead]([https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif](https://th.bing.com/th/id/R.ba6d7d37fa1e4ca966ac7328bf43b96c?rik=uPLvCopdQgxBNw&pid=ImgRaw&r=0))](https://ethozap.com)
+[![MasterHead](https://tse1.mm.bing.net/th/id/OIP.9UfGNOgSF8yorR5CAPz6pAHaHa?w=680&h=680&rs=1&pid=ImgDetMain&o=7&rm=3)](https://ethozap.com)
+
 <h1 align="center">Hi 👋, I'm Raissi Hosni</h1>
 <h3 align="center">👨‍💻 As a Computer Science Engineering student at ENICarthage, I’m driven by a deep passion for cybersecurity and its crucial role in shaping the future of technology. Over the past three years, I've actively explored the dynamic fields of software development, data science, artificial intelligence, and ethical hacking, continuously sharpening my skills through hands-on projects and personal learning.
 
